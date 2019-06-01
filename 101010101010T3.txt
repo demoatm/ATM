@@ -1,0 +1,6 @@
+!12-05-2019           17:46:52           RUT TIEN               100000 VND               NULL                NULL
+!12-05-2019           17:47:36           CHUYEN TIEN            150000 VND           101010101010T1           Vo Minh Tien
+!12-05-2019           18:00:58           CHUYEN TIEN            100000 VND           101010101010T2           Le Hoai Thuong
+!12-05-2019           18:02:10           CHUYEN TIEN            100000 VND           101010101010T1           Vo Minh Tien
+!15-05-2019           19:24:52           NHAN TIEN             150000 VND           101010101010T1           Vo Minh Tien
+!31-05-2019           23:19:22           NHAN TIEN             60000 VND           101010101010T2           Le Hoai Thuong

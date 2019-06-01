@@ -1,0 +1,9 @@
+!12-05-2019           17:47:36           NHAN TIEN             150000 VND           101010101010T3           Duong Trieu Loc
+!12-05-2019           17:51:24           RUT TIEN                700000 VND               NULL                NULL
+!12-05-2019           18:02:10           NHAN TIEN             100000 VND           101010101010T3           Duong Trieu Loc
+!14-05-2019           11:43:06           RUT TIEN               100000 VND               NULL                NULL
+!14-05-2019           11:43:52           CHUYEN TIEN            123456 VND           101010101010T2           Le Hoai Thuong
+!14-05-2019           11:44:29           CHUYEN TIEN            76544 VND           101010101010T2           Le Hoai Thuong
+!15-05-2019           19:23:58           RUT TIEN               150000 VND               NULL                NULL
+!15-05-2019           19:24:52           CHUYEN TIEN            150000 VND           101010101010T3           Duong Trieu Loc
+!31-05-2019           23:20:06           RUT TIEN               150000 VND               NULL                NULL

@@ -1,0 +1,2 @@
+!12-05-2019           17:54:27           RUT TIEN               50000 VND               NULL                NULL
+!12-05-2019           17:59:53           RUT TIEN               100000 VND               NULL                NULL
